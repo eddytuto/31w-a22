@@ -1,18 +1,18 @@
-# Exercice 2
+# Exercice 2 (5 points)
 ### En 5 étapes:
 ### Pour chacune des étapes créez cinq commits.
 Pousser vos commits dans le dépôt 31w de votre github. Dans la branche Exer_2
 ### Chacune des étapes sera remise à la fin du cours
 ***
-## Étape 1:
+## Étape 1 (1 point):
 Créer un thème simple qui contiendra les fichiers: ***index.php***, ***style.css*** et ***functions.php***
 Créer cinq commit
 Pousser vos commits dans le dépôt 31w de votre github. Dans la branche Exer_2
-## Étape 2:
+## Étape 2 (1 point):
 Ajouter un dossier Sass au thème de l'étape1. 
-## Étape 3:
+## Étape 3 (1 point):
 À venir
-## Étape 4:
+## Étape 4 (1 point):
 À venir
-## Étape 5:
+## Étape 5 (1 point):
 à venir
