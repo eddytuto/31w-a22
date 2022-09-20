@@ -19,18 +19,19 @@ Pousser vos commits dans le dépôt 31w de votre github. Dans la branche Exer_1
 ## Étape 2 (1 point):
 
 Ajouter un dossier Sass au thème de l'étape1.
+
 - sass
- - variables
-   - _couleurs.scss
-   - _polices.scss
-   - _structure.scss
-  - generic
-   - _box-sizing.scss
-   - _normalize.scss
-  - base
-   - _body.scss
-   - _heading.scss
-  - style.scss (Ce fichier sera compilé pour former le fichier style.css )
+- variables
+  - \_couleurs.scss
+  - \_polices.scss
+  - \_structure.scss
+- generic
+- \_box-sizing.scss
+- \_normalize.scss
+- base
+- \_body.scss
+- \_heading.scss
+- style.scss (Ce fichier sera compilé pour former le fichier style.css à l'extérieur du dossier sass et au même niveau que functions.php )
 
 ## Étape 3 (1 point):
 
