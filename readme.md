@@ -1,4 +1,4 @@
-# Exercice 1 (5 points)
+\*\*\*\*# Exercice 1 (5 points)
 
 ### En 5 étapes pour les 5 prochains cours:
 
@@ -35,7 +35,11 @@ Ajouter un dossier Sass au thème de l'étape1.
 
 ## Étape 3 (1 point):
 
-À venir
+- Améliorer votre **structure Sass**
+- Ajouter le modèle « **front-page.php** »
+- Ajouter le modèle « **single.php** »
+- Ajouter un menu dans le template « **header.php** »
+- Créer un minimum de **5 commits** avec des **messages descriptifs et utiles**
 
 ## Étape 4 (1 point):
 
