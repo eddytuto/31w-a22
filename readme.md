@@ -1,4 +1,4 @@
-\*\*\*\*# Exercice 1 (5 points)
+# Exercice 1 (5 points)
 
 ### En 5 étapes pour les 5 prochains cours:
 
