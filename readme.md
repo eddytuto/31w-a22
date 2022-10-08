@@ -8,6 +8,8 @@ Pousser vos commits dans le dépôt 31w de votre github. Dans la branche Exer_1
 
 ### Chacune des étapes sera remise à la fin du cours
 
+### Chaque étapes contiendra 5 commits
+
 ---
 
 ## Étape 1 (1 point):
@@ -40,11 +42,16 @@ Ajouter un dossier Sass au thème de l'étape1.
 - Ajouter le modèle « **single.php** »
 - Ajouter un menu dans le template « **header.php** »
 - Créer un minimum de **5 commits** avec des **messages descriptifs et utiles**
+- Créer 5 commit minimu,
 
 ## Étape 4 (1 point):
 
-À venir
+- Améliorer votre **structure Sass**
+- Ajouter un menu dans « **header.php** »
+- Adapter la structure de grid dans « **layout** »
 
 ## Étape 5 (1 point):
 
-à venir
+- Améliorer votre **structure Sass**
+- Ajouter le menu **sidebar** dans « **header.php** »
+- Filter les choix du menu sidebar pour le pas afficher le code de cours et la durée du cours
