@@ -54,4 +54,4 @@ Ajouter un dossier Sass au thème de l'étape1.
 
 - Améliorer votre **structure Sass**
 - Ajouter le menu **sidebar** dans « **header.php** »
-- Filter les choix du menu sidebar pour le pas afficher le code de cours et la durée du cours
+- Filter les choix du menu sidebar pour ne pas afficher le code de cours et la durée du cours
