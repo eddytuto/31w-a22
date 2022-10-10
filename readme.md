@@ -42,7 +42,7 @@
 1. Organisation des commits sur Github minimum 20 commits pour l'extension et 20 commits pour le thème **_(5 points)_**
 
    - Adresse github dans la description du thème/plugin
-   - Minimum de 20 commits étalé sur deux semaines pour le thème et pour l'extension
+   - Minimum de 20 commits étalés sur deux semaines pour le thème et pour l'extension
    - Messages clairs
    - Déploiement de votre site sur Siteground
    - Un readme.md pour le thème et pour l'extension: auteur, titre du projet et description
