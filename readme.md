@@ -1,57 +1,50 @@
-# Exercice 1 (5 points)
+# TP1 (25 points)
 
-### En 5 étapes pour les 5 prochains cours:
+###### L\'objectif du TP1 :
 
-### Pour chacune des étapes créez cinq commits.
+- Créer une extension
+- Continuer à faire progresser votre thème
+- Déployer votre projet sur le serveur **_Siteground_**
 
-Pousser vos commits dans le dépôt 31w de votre github. Dans la branche Exer_1
+###### Ce projet vous permettra d\'améliorer globalement votre site en y intégrant les éléments suivants:
 
-### Chacune des étapes sera remise à la fin du cours
+- Une extension carrousel permettant de visionner une galerie d\'images
+- Un pied de page et un sidebar permettant d\'intégrer des widgets
+- Un design de thème amélioré avec Sass et PHP
 
-### Chaque étapes contiendra 5 commits
+###### Déroulement du projet
+
+> Les « **_commits_** » seront poussés dans le dépôt **_31w_** et **_31w-extension_** de votre github. Dans la branche **_tp1_**
+> L\'ensemble des commits devra s\'étaler progressivement à partir de la journée de remise du devis jusqu\'à la remise finale du TP
+> Un minimum de 20 commits pour le thème et pour l\'extension permettra d\'évaluer l\'évolution de votre projet
+
+###### Le serveur Siteground
+
+> Un compte sera créé pour chaque paire d\'étudiants. Vous partagerez le même site qui pourra être affiché différemment selon le thème activé. Ce qui vous permettra d\'intégrer plus facilement des données, notamment les images.
+> Chaque étudiant sera responsable de son thème et de son extension, il y aura donc deux thèmes et deux extensions carrousel pour chacun des sites du TP1. Vous devrez identifier votre thème et votre extension par vos initiales.
 
 ---
 
-## Étape 1 (1 point):
+### L\'extension carrousel
 
-Créer un thème simple qui contiendra les fichiers: **_index.php_**, **_style.css_** et **_functions.php_**
-Créer cinq commit
-Pousser vos commits dans le dépôt 31w de votre github. Dans la branche Exer_1
+> L\'extension permettra de visualiser l\'ensemble des images d\'une galerie d\'images spécifiques. Une fois la galerie d\'images créée, elle pourra être liée à l\'extension. En cliquant sur une image de la galerie, celle-ci apparaîtra dans une boîte modale animée munie de plusieurs contrôles (boutons radio, flèches) de navigation permettant de passer d\'une image à l\'autre.
 
-## Étape 2 (1 point):
+### Widget sidebar et footer
 
-Ajouter un dossier Sass au thème de l'étape1.
+> Les zones **_sidebar_** et **_footer_** permettront d\'intégrer des extensions wordpress et des fonctionnalités prédéfinies et accessibles à partir de l'éditeur **_gutenberg_**
 
-- sass
-  - variables
-    - \_couleurs.scss
-    - \_polices.scss
-  - \_structure.scss
-  - generic
-    - \_box-sizing.scss
-    - \_normalize.scss
-  - base
-    - \_body.scss
-    - \_heading.scss
-- style.scss (Ce fichier sera compilé pour former le fichier style.css à l'extérieur du dossier sass et au même niveau que functions.php )
+### Design amélioré
 
-## Étape 3 (1 point):
+> La pagination globale « layout » du site et les différentes zones de la page: l'entête, le sidebar, le footer et la partie principale « main » de la page d'accueil devront être bien structurés claire et originale.
 
-- Améliorer votre **structure Sass**
-- Ajouter le modèle « **front-page.php** »
-- Ajouter le modèle « **single.php** »
-- Ajouter un menu dans le template « **header.php** »
-- Créer un minimum de **5 commits** avec des **messages descriptifs et utiles**
-- Créer 5 commit minimu,
+## Barème de correction sur 25 points
 
-## Étape 4 (1 point):
-
-- Améliorer votre **structure Sass**
-- Ajouter un menu dans « **header.php** »
-- Adapter la structure de grid dans « **layout** »
-
-## Étape 5 (1 point):
-
-- Améliorer votre **structure Sass**
-- Ajouter le menu **sidebar** dans « **header.php** »
-- Filter les choix du menu sidebar pour ne pas afficher le code de cours et la durée du cours
+1. Organisation des commits sur Github minimum 20 commits pour l'extension et 20 commits pour le thème **_(5 points)_**
+   o Adresse github dans la description du thème/plugin
+   o Minimum de 20 commits étalé sur deux semaines pour le thème et pour l'extension
+   o Messages clairs
+   o Déploiement de votre site sur Siteground
+   o Un readme.md pour le thème et pour l'extension: auteur, titre du projet et description
+2. Fonctionnement de l’extension carrousel, qualité du design, de l’intégration, des animations et organisation de la codification **_(10 points)_**
+3. Organisation du sidebar et du footer, qualité du design et de l’intégration des widgets **_(5 points)_**
+4. Design général de la page et organisation de la programmation Sass, PHP **_(5 points)_**
