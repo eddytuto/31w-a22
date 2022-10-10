@@ -40,11 +40,13 @@
 ## Barème de correction sur 25 points
 
 1. Organisation des commits sur Github minimum 20 commits pour l'extension et 20 commits pour le thème **_(5 points)_**
-   o Adresse github dans la description du thème/plugin
-   o Minimum de 20 commits étalé sur deux semaines pour le thème et pour l'extension
-   o Messages clairs
-   o Déploiement de votre site sur Siteground
-   o Un readme.md pour le thème et pour l'extension: auteur, titre du projet et description
+
+- Adresse github dans la description du thème/plugin
+- Minimum de 20 commits étalé sur deux semaines pour le thème et pour l'extension
+- Messages clairs
+- Déploiement de votre site sur Siteground
+- Un readme.md pour le thème et pour l'extension: auteur, titre du projet et description
+
 2. Fonctionnement de l’extension carrousel, qualité du design, de l’intégration, des animations et organisation de la codification **_(10 points)_**
 3. Organisation du sidebar et du footer, qualité du design et de l’intégration des widgets **_(5 points)_**
 4. Design général de la page et organisation de la programmation Sass, PHP **_(5 points)_**
