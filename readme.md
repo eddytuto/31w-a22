@@ -14,7 +14,7 @@
 
 ###### Déroulement du projet
 
-> Les « **_commits_** » seront poussés dans le dépôt **_31w_** et **_31w-extension_** de votre github. Dans la branche **_tp1_**
+> Les « **_commits_** » seront poussés dans le dépôt **_31w_** et **_31w-extension_** de votre github dans la branche **_tp1_**.
 > L\'ensemble des commits devra s\'étaler progressivement à partir de la journée de remise du devis jusqu\'à la remise finale du TP.
 > Un minimum de 20 commits pour le thème et pour l\'extension permettra d\'évaluer l\'évolution de votre projet
 
