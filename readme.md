@@ -1,22 +1,20 @@
-# TP1 (25 points)
+# Exercice #2 (5 points)
 
-###### L\'objectif du TP1 :
+###### L\'objectif de l'exercice #2:
 
 - Créer une extension
-- Continuer à faire progresser votre thème
 - Déployer votre projet sur le serveur **_Siteground_**
 
-###### Ce projet vous permettra d\'améliorer globalement votre site en y intégrant les éléments suivants:
+###### L'exercice vous permettra de vous familiariser avec le serveur Siteground en
 
-- Une extension carrousel permettant de visionner une galerie d\'images
-- Un pied de page et un sidebar permettant d\'intégrer des widgets
-- Un design de thème amélioré avec Sass et PHP
+- créant un prototype de l'extension carrousel
+- déployant votre site sur le serveur Siteground
 
 ###### Déroulement du projet
 
 > Les « **_commits_** » seront poussés dans le dépôt **_31w_** et **_31w-extension_** de votre github. Dans la branche **_tp1_**
-> L\'ensemble des commits devra s\'étaler progressivement à partir de la journée de remise du devis jusqu\'à la remise finale du TP
-> Un minimum de 20 commits pour le thème et pour l\'extension permettra d\'évaluer l\'évolution de votre projet
+> L\'ensemble des commits devra s\'étaler progressivement à partir de la journée de remise du devis jusqu\'à la remise finale de l'exercice #2
+> Un minimum de 5 commits pour le thème et pour l\'extension permettra d\'évaluer l\'évolution de votre projet
 
 ###### Le serveur Siteground
 
@@ -25,21 +23,13 @@
 
 ---
 
-### L\'extension carrousel
+### Prototype de l\'extension carrousel
 
-> L\'extension permettra de visualiser l\'ensemble des images d\'une galerie d\'images spécifiques. Une fois la galerie d\'images créée, elle pourra être liée à l\'extension. En cliquant sur une image de la galerie, celle-ci apparaîtra dans une boîte modale animée munie de plusieurs contrôles (boutons radio, flèches) de navigation permettant de passer d\'une image à l\'autre.
+> Début du développement de l'extension.
 
-### Widget sidebar et footer
+## Barème de correction sur 5 points
 
-> Les zones **_sidebar_** et **_footer_** permettront d\'intégrer des extensions wordpress et des fonctionnalités prédéfinies et accessibles à partir de l'éditeur **_gutenberg_**
-
-### Design amélioré
-
-> La pagination globale « layout » du site et les différentes zones de la page: l'entête, le sidebar, le footer et la partie principale « main » de la page d'accueil devront être bien structurés claire et originale.
-
-## Barème de correction sur 25 points
-
-1. Organisation des commits sur Github minimum 20 commits pour l'extension et 20 commits pour le thème **_(5 points)_**
+1. Organisation des commits sur Github minimum 20 commits pour l'extension et 20 commits pour le thème **_(3 points)_**
 
    - Adresse github dans la description du thème/plugin
    - Minimum de 20 commits étalé sur deux semaines pour le thème et pour l'extension
@@ -47,6 +37,4 @@
    - Déploiement de votre site sur Siteground
    - Un readme.md pour le thème et pour l'extension: auteur, titre du projet et description
 
-2. Fonctionnement de l’extension carrousel, qualité du design, de l’intégration, des animations et organisation de la codification **_(10 points)_**
-3. Organisation du sidebar et du footer, qualité du design et de l’intégration des widgets **_(5 points)_**
-4. Design général de la page et organisation de la programmation Sass, PHP **_(5 points)_**
+2. Fonctionnement de l’extension carrousel **_(2 points)_**
