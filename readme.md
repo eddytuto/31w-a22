@@ -1,40 +1,32 @@
-# Exercice #2 (5 points)
+# Exercice #3 (5 points)
 
-###### L\'objectif de l'exercice #2:
+###### L\'objectif de l'exercice #3:
 
-- Créer une extension
+- Ajouter, gérer et utiliser des champs personnalisés
+- Adapter le menu aside pour qu'il soit adaptatif 
 - Déployer votre projet sur le serveur **_Siteground_**
 
-###### L'exercice vous permettra de vous familiariser avec le serveur Siteground en
+###### L'exercice vous permettra de vous familiariser avec les champs personnalisés
 
-- créant un prototype de l'extension carrousel
-- déployant votre site sur le serveur Siteground
+- Cet exercice est un premier prototype du TP2
+
 
 ###### Déroulement du projet
 
-> Les « **_commits_** » seront poussés dans le dépôt **_31w_** et **_31w-extension_** de votre github. Dans la branche **_tp1_**
-> L\'ensemble des commits devra s\'étaler progressivement à partir de la journée de remise du devis jusqu\'à la remise finale de l'exercice #2
-> Un minimum de 5 commits pour le thème et pour l\'extension permettra d\'évaluer l\'évolution de votre projet
-
-###### Le serveur Siteground
-
-> Un compte sera créé pour chaque paire d\'étudiants. Vous partagerez le même site qui pourra être affiché différemment selon le thème activé. Ce qui vous permettra d\'intégrer plus facilement des données, notamment les images.
-> Chaque étudiant sera responsable de son thème et de son extension, il y aura donc deux thèmes et deux extensions carrousel pour chacun des sites du TP1. Vous devrez identifier votre thème et votre extension par vos initiales.
-
----
-
-### Prototype de l\'extension carrousel
-
-> Début du développement de l'extension.
+> Les « **_commits_** » seront poussés dans le dépôt **_31w_**  de votre github. Dans la branche **_tp2_**
+> L\'ensemble des commits devra s\'étaler progressivement à partir de la journée de remise du devis jusqu\'à la remise finale de l'exercice #3 le 3 novembre
+> Un minimum de 10 commits pour le thème  permettra d\'évaluer l\'évolution de votre projet
 
 ## Barème de correction sur 5 points
 
-1. Organisation des commits sur Github minimum 5 commits pour l'extension et 5 commits pour le thème **_(3 points)_**
+1. Organisation des commits sur Github minimum 10 commits  pour le thème **_(2 points)_**
 
-   - Adresse github dans la description du thème/plugin
-   - Minimum de 5 commits étalé sur deux semaines pour le thème et pour l'extension
+   - Adresse github dans la description du thème
+   - Minimum de 10 commits étalés sur trois jours pour le thème 
    - Messages clairs
    - Déploiement de votre site sur Siteground
-   - Un readme.md pour le thème et pour l'extension: auteur, titre du projet et description
+   - Un readme.md pour le thème: auteur, titre du projet et description
 
-2. Fonctionnement de l’extension carrousel **_(2 points)_**
+2. Fonctionnement des champs personnalisé **_(2 points)_**
+3. Fonctionnement du menu adaptatif **_(1 points)_**
+
