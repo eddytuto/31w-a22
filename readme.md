@@ -1,57 +1,40 @@
-# Exercice 1 (5 points)
+# Exercice #2 (5 points)
 
-### En 5 étapes pour les 5 prochains cours:
+###### L\'objectif de l'exercice #2:
 
-### Pour chacune des étapes créez cinq commits.
+- Créer une extension
+- Déployer votre projet sur le serveur **_Siteground_**
 
-Pousser vos commits dans le dépôt 31w de votre github. Dans la branche Exer_1
+###### L'exercice vous permettra de vous familiariser avec le serveur Siteground en
 
-### Chacune des étapes sera remise à la fin du cours
+- créant un prototype de l'extension carrousel
+- déployant votre site sur le serveur Siteground
 
-### Chaque étapes contiendra 5 commits
+###### Déroulement du projet
+
+> Les « **_commits_** » seront poussés dans le dépôt **_31w_** et **_31w-extension_** de votre github. Dans la branche **_tp1_**
+> L\'ensemble des commits devra s\'étaler progressivement à partir de la journée de remise du devis jusqu\'à la remise finale de l'exercice #2
+> Un minimum de 5 commits pour le thème et pour l\'extension permettra d\'évaluer l\'évolution de votre projet
+
+###### Le serveur Siteground
+
+> Un compte sera créé pour chaque paire d\'étudiants. Vous partagerez le même site qui pourra être affiché différemment selon le thème activé. Ce qui vous permettra d\'intégrer plus facilement des données, notamment les images.
+> Chaque étudiant sera responsable de son thème et de son extension, il y aura donc deux thèmes et deux extensions carrousel pour chacun des sites du TP1. Vous devrez identifier votre thème et votre extension par vos initiales.
 
 ---
 
-## Étape 1 (1 point):
+### Prototype de l\'extension carrousel
 
-Créer un thème simple qui contiendra les fichiers: **_index.php_**, **_style.css_** et **_functions.php_**
-Créer cinq commit
-Pousser vos commits dans le dépôt 31w de votre github. Dans la branche Exer_1
+> Début du développement de l'extension.
 
-## Étape 2 (1 point):
+## Barème de correction sur 5 points
 
-Ajouter un dossier Sass au thème de l'étape1.
+1. Organisation des commits sur Github minimum 5 commits pour l'extension et 5 commits pour le thème **_(3 points)_**
 
-- sass
-  - variables
-    - \_couleurs.scss
-    - \_polices.scss
-  - \_structure.scss
-  - generic
-    - \_box-sizing.scss
-    - \_normalize.scss
-  - base
-    - \_body.scss
-    - \_heading.scss
-- style.scss (Ce fichier sera compilé pour former le fichier style.css à l'extérieur du dossier sass et au même niveau que functions.php )
+   - Adresse github dans la description du thème/plugin
+   - Minimum de 5 commits étalé sur deux semaines pour le thème et pour l'extension
+   - Messages clairs
+   - Déploiement de votre site sur Siteground
+   - Un readme.md pour le thème et pour l'extension: auteur, titre du projet et description
 
-## Étape 3 (1 point):
-
-- Améliorer votre **structure Sass**
-- Ajouter le modèle « **front-page.php** »
-- Ajouter le modèle « **single.php** »
-- Ajouter un menu dans le template « **header.php** »
-- Créer un minimum de **5 commits** avec des **messages descriptifs et utiles**
-- Créer 5 commit minimu,
-
-## Étape 4 (1 point):
-
-- Améliorer votre **structure Sass**
-- Ajouter un menu dans « **header.php** »
-- Adapter la structure de grid dans « **layout** »
-
-## Étape 5 (1 point):
-
-- Améliorer votre **structure Sass**
-- Ajouter le menu **sidebar** dans « **header.php** »
-- Filter les choix du menu sidebar pour ne pas afficher le code de cours et la durée du cours
+2. Fonctionnement de l’extension carrousel **_(2 points)_**
