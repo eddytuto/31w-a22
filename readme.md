@@ -39,7 +39,7 @@ Déroulement du projet
 
 ## Barème de correction sur 25 points
 
-1. Organisation des commits sur Github minimum 20 commits pour l'extension et 20 commits pour le thème **_(5 points)_**
+1. Organisation des commits sur Github minimum 20 commits pour l'extension et  le thème ensemble **_(5 points)_**
 
 - Minimum de 10 commits étalé sur deux semaines pour le thème et pour l'extension
 - Messages clairs
