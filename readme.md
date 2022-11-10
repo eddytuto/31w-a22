@@ -49,4 +49,4 @@ Déroulement du projet
 2. La page d'accueil contient des blocs annonçant les nouveautés du site. La page est interactive et le design original  **_(5 points)_**
 3. Organisation du sidebar et du footer, qualité du design et de l’intégration des widgets **_(5 points)_**
 4. Design général des pages simples (single.php, page.php) et organisation de la programmation Sass, PHP **_(5 points)_**
-5. Utilisation des templates de page et les blocs menu avec description **_(5 points)_**
+5. Utilisation des templates de page, les blocs menu avec description et les champs personnalisés **_(5 points)_**
