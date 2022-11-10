@@ -8,7 +8,7 @@ L\'objectif du TP2 :
 - Améliorer votre structure de sidebar 
 - Améliorer l'apparence du footer
 - Créer un modèle category-cours pour synthétiser l'offre de cours
-- Créer quelques modèles
+- Créer quelques modèles et templates
 - Continuer à faire progresser votre thème
 - Déployer votre projet sur le serveur **_Siteground_**
 
