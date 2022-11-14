@@ -2,11 +2,11 @@
 
 ###### L\'objectif de l'exercice #4:
 
-- Ajouter, gérer et utiliser des champs personnalisés
-- Développer une page d'accueil « front-page.php » qui contiendra
--- des blocs menu avec description
--- des blocs de catégories accueil qui annonce les article importants
--- chacun de ces blocs ont un design particulier utilisant plusieurs propriétés CSS
+- Ajouter, gérer et utiliser des champs personnalisés dans le fichier template « template-evenement.php »
+- Développer une page d'accueil « front-page.php » 
+- La page d'accueil contiendra des blocs menu avec description qui annonce les événements
+- La page d'accueil contiendra des blocs de catégories « accueil » qui annonce les articles importants
+- Chacun de ces blocs ont un design particulier utilisant plusieurs propriétés CSS
 - Déployer votre projet sur le serveur **_Siteground_**
 
 ###### L'exercice vous permettra de vous familiariser avec les champs personnalisés
